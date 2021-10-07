@@ -13,5 +13,11 @@
     font-family: 'Aclonica', sans-serif;
     font-size: 3.5rem;
 
-   
+}
+
+#buttonStart{
+    border-color: black !important;
+    color: black !important;
+    background-color: white;
+    box-shadow: -1px 6px 5px grey;
 }

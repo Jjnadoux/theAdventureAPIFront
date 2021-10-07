@@ -1,0 +1,12 @@
+#homeBody{
+    background-image: url('../../../../assets/images/fantasy-4070966_1920.jpg');
+    height: 100vh;
+    justify-content: center;
+
+}
+
+#contentDiv{
+    margin: 30px;
+    background-color: white;
+    border-radius: 30px;
+}
