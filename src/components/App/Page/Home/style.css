@@ -1,0 +1,17 @@
+#homeBody{
+    background-image: url('../../../../assets/images/fantasy-4070966_1920.jpg');
+    height: 100vh;
+    justify-content: center;
+
+}
+
+#tittleGame{
+    margin: auto;
+}
+#tittleGame h1{
+    text-shadow: -1px 6px 5px grey;
+    font-family: 'Aclonica', sans-serif;
+    font-size: 3.5rem;
+
+   
+}
